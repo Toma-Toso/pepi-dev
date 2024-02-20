@@ -15,7 +15,7 @@
 
     <p> Voici ma nouvelle verbtrnt,rphrase</p>
     
-    <?php echo 'Bienvenue, ' $name ?>
+    <?php echo 'Bienvenue, '.$name ?>
 
 
 </body>
